@@ -1,4 +1,4 @@
-# An-'n-body' Simulation
+# An 'n-body' Simulation
 Written in Python code, this project contains the files used to simulate an ‘n –body’ system evolving over time, acting under the influence of gravity. Data used is from the Horizons data base (at the time of creation) to model the kinematics and dynamics of the solar system. This project was created for the module 'Scientific Programming and Modelling Project' (PHYS281) at Lancaster University.
 
 Particle.py contains a class called Particle which forms the basic structure of the bodies used to simulate how bodies in a gravitational system interact.
