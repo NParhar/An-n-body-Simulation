@@ -1,0 +1,2 @@
+# An-n-body-Simulation
+Written in Python code, this project contains the files used to simulate an ‘n –body’ system evolving over time, acting under the influence of gravity. Data used is from the Horizons data base (at the time of creation) to model the kinematics and dynamics of the solar system. This project was created for the module 'Scientific Programming and Modelling Project' (PHYS281) at Lancaster University.
